@@ -1,0 +1,16 @@
+
+Dinner Guest: amy
+	Wine                           	 $  6.99
+	Linguini-Pescatore             	 $ 17.99
+
+Dinner Guest: Pat
+	Bruschetta                     	 $  8.00
+	Coffee                         	 $  5.99
+	Walk-the-Plank-Salmon          	 $ 15.99
+	Cheesecake                     	 $  4.00
+
+	Subtotal                       	 $ 58.96
+	Happy Hour Discount            	 $  8.00
+	HST 15%                        	 $  7.64
+	Total                          	 $ 58.60
+

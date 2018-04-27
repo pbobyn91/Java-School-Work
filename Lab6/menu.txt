@@ -1,0 +1,12 @@
+Drinks Beer 5.99
+Drinks Wine 6.99
+Drinks Coffee 5.99
+Desserts Cheesecake 4.00
+Desserts Tiramisu 2.00
+Desserts Ice-Cream 2.00
+Appetizers Shrimp-on-the-Barbie 10.00
+Appetizers Bruschetta 8.00
+Appetizers Scallops 12.00
+Entrees Walk-the-Plank-Salmon 15.99
+Entrees Linguini-Pescatore 17.99
+Entrees Pad-Thai-with-Shrimp 14.99
